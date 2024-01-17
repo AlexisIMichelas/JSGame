@@ -1,0 +1,16 @@
+#map {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: green;
+  }
+  
+  #player {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('Pokemon_Trainer_Boy_icon-icons.com_67516.png');
+    background-size: cover;
+  }
+  
